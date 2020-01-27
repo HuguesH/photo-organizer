@@ -1,0 +1,20 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] ----------------------< hh.tools:photo-organizer >----------------------
+[INFO] Building photo-organizer 1.0-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- maven-dependency-plugin:2.8:tree (default-cli) @ photo-organizer ---
+[INFO] hh.tools:photo-organizer:jar:1.0-SNAPSHOT
+[INFO] +- org.apache.commons:commons-imaging:jar:1.0-alpha1:compile
+[INFO] +- commons-cli:commons-cli:jar:1.4:compile
+[INFO] +- ch.qos.logback:logback-classic:jar:1.2.3:compile
+[INFO] |  \- ch.qos.logback:logback-core:jar:1.2.3:compile
+[INFO] +- org.slf4j:slf4j-api:jar:1.7.30:compile
+[INFO] \- junit:junit:jar:3.8.1:test
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.501 s
+[INFO] Finished at: 2020-01-18T17:31:23+01:00
+[INFO] ------------------------------------------------------------------------
